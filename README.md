@@ -6,6 +6,12 @@
 </p>
 
 <p align="center">
+  <a href="https://mustafaelhawash.com/"><img src="https://img.shields.io/badge/Website-mustafaelhawash.com-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://wa.me/201010007051"><img src="https://img.shields.io/badge/WhatsApp-00201010007051-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="mailto:info@mustafaelhawash.com"><img src="https://img.shields.io/badge/Email-info@mustafaelhawash.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/mustafaelhawash/"><img src="https://img.shields.io/badge/linkedin-profile?style=for-the-badge&logo=linkedin&logoColor=ffffff&color=363a4f" alt="LinkedIn"></a>
   <a href="https://www.facebook.com/MustafaElhawashOfficial/"><img src="https://img.shields.io/badge/facebook-profile?style=for-the-badge&logo=facebook&logoColor=ffffff&color=363a4f" alt="Facebook"></a>
   <a href="https://www.instagram.com/mustafaelhawashofficial/"><img src="https://img.shields.io/badge/instagram-profile?style=for-the-badge&logo=instagram&logoColor=ffffff&color=363a4f" alt="Instagram"></a>
