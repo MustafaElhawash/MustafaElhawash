@@ -1,5 +1,5 @@
 <h2 align="center">Hi there, I'm Mustafa Elhawash</h2>
-<h3 align="center">💼 Google Specialist | Web Developer | SEO</h3>
+<h3 align="center">💼 Google Specialist | Web Designer & Developer | SEO</h3>
 
 <p align="center">
   <img src="banner.jpg" alt="Mustafa Elhawash Banner" width="600">
