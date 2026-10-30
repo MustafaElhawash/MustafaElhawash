@@ -2,7 +2,7 @@
 <h3 align="center">E-Commerce Web Developer | Digital Marketing & SEO Consultant</h3>
 
 <p align="center">
-  <img src=".github/media/profile-banner.jpg?raw=true" alt="Mustafa Elhawash Banner" width="600">
+  <img src="banner.jpg" alt="Mustafa Elhawash Banner" width="600">
 </p>
 
 <p align="center">
