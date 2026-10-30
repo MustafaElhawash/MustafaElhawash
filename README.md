@@ -54,3 +54,8 @@
 <img src="https://img.shields.io/badge/TikTok%20Ads-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Ads">
 
 ---
+
+<br>
+<p align="center">
+  <small>📝 Designed by <b>Mustafa Elhawash</b>. Please do not copy this profile template directly.</small>
+</p>
