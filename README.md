@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mustafa Elhawash</h2>
+<h2 align="center">Hi there, I'm Mustafa Elhawash</h2>
 <h3 align="center">💼 Google Specialist | Web Developer | SEO</h3>
 
 <p align="center">
@@ -9,6 +9,7 @@
   <a href="https://mustafaelhawash.com/"><img src="https://img.shields.io/badge/WEBSITE-363a4f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="https://wa.me/201010007051"><img src="https://img.shields.io/badge/WHATSAPP-363a4f?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="mailto:info@mustafaelhawash.com"><img src="https://img.shields.io/badge/EMAIL-363a4f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=MustafaElhawash&color=363a4f&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
 </p>
 
 <p align="center">
@@ -57,5 +58,5 @@
 
 <br>
 <p align="center">
-  <small>📝 Designed by <b>Mustafa Elhawash</b>. Please do not copy this profile template directly.</small>
+  <small>📝 Designed by <b>Mustafa Elhawash</b>.</small>
 </p>
