@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mustafa Elhawash 👋</h1>
+<h1 align="center">Hi there, I'm Mustafa Elhawash</h2>
 <h3 align="center">💼 Google Specialist | Web Developer | SEO</h3>
 
 <p align="center">
