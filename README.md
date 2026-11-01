@@ -21,9 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="https://s05.flagcounter.com/more/4gi">
-    <img src="https://s05.flagcounter.com/count2/4gi/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
-  </a>
+  <img src="https://s05.flagcounter.com/count2/4gi/bg_363A4F/txt_FFFFFF/border_363A4F/columns_5/maxflags_10/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Visitors Geography">
 </p>
 
 ---
