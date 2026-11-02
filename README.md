@@ -60,5 +60,5 @@
 
 <br>
 <p align="center">
-  <small>📝 Designed by <b>Mustafa Elhawash</b>.</small>
+  <small>💻 Developed by <b>Mustafa Elhawash</b>.</small>
 </p>
