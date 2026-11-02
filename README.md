@@ -9,7 +9,6 @@
   <a href="https://mustafaelhawash.com/"><img src="https://img.shields.io/badge/WEBSITE-363a4f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="https://wa.me/201010007051"><img src="https://img.shields.io/badge/WHATSAPP-363a4f?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="mailto:info@mustafaelhawash.com"><img src="https://img.shields.io/badge/EMAIL-363a4f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=MustafaElhawash&color=363a4f&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
 </p>
 
 <p align="center">
@@ -21,9 +20,8 @@
 </p>
 
 <p align="center">
-  <img src="https://s05.flagcounter.com/count2/4gi/bg_363A4F/txt_FFFFFF/border_363A4F/columns_5/maxflags_10/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Visitors Geography">
+  <img src="https://komarev.com/ghpvc/?username=MustafaElhawash&color=363a4f&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
 </p>
-
 ---
 
 ### 👨‍💻 About Me
