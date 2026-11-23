@@ -18,17 +18,17 @@
   <a href="https://www.linkedin.com/in/mustafaelhawash/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0B1914?style=for-the-badge&logo=linkedin&logoColor=34D399" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/MustafaElhawashOfficial" target="_blank">
-    <img src="https://img.shields.io/badge/FACEBOOK-0B1914?style=for-the-badge&logo=facebook&logoColor=34D399" alt="Facebook"/>
-  </a>
   <a href="https://www.instagram.com/mustafaelhawashofficial" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-0B1914?style=for-the-badge&logo=instagram&logoColor=34D399" alt="Instagram"/>
   </a>
-  <a href="https://www.youtube.com/@MustafaElhawash" target="_blank">
-    <img src="https://img.shields.io/badge/YOUTUBE-0B1914?style=for-the-badge&logo=youtube&logoColor=34D399" alt="YouTube"/>
-  </a>
   <a href="https://www.tiktok.com/@mustafaelhawash" target="_blank">
     <img src="https://img.shields.io/badge/TIKTOK-0B1914?style=for-the-badge&logo=tiktok&logoColor=34D399" alt="TikTok"/>
+  </a>
+  <a href="https://www.facebook.com/MustafaElhawashOfficial" target="_blank">
+    <img src="https://img.shields.io/badge/FACEBOOK-0B1914?style=for-the-badge&logo=facebook&logoColor=34D399" alt="Facebook"/>
+  </a>
+  <a href="https://www.youtube.com/@MustafaElhawash" target="_blank">
+    <img src="https://img.shields.io/badge/YOUTUBE-0B1914?style=for-the-badge&logo=youtube&logoColor=34D399" alt="YouTube"/>
   </a>
 </p>
 
@@ -48,12 +48,12 @@ I bridge **production software engineering** with **Google's growth and search e
 
 My software engineering work is structured into **4 specialized architectural divisions** documented on [mustafaelhawash.com](https://mustafaelhawash.com/):
 
-| Engineering Division | Core Engineered Systems & Capabilities | Architecture & Case Studies |
-| :--- | :--- | :--- |
-| **1. Full-Stack Web Development & Performance Engineering** | • High-performance **WordPress & WooCommerce** architecture<br>• Core Web Vitals tuning, caching (`WP Rocket` + `Cloudflare`), and server bottleneck resolution<br>• Technical SEO architecture & enterprise store revivals | [Explore Division ↗](https://mustafaelhawash.com/full-stack-performance-engineering/) |
-| **2. Python Automation Engineering** | • **Visual Web & Forum Archiving Engine:** High-speed automated capture & archiving<br>• **Interactive Self-Healing Automation Engine:** Resilient execution with auto-recovery scenarios<br>• **Cloud Split-Archive Automation System:** Automated processing & extraction of segmented cloud archives | [Explore Division ↗](https://mustafaelhawash.com/python-automation-engineering/) |
-| **3. Cloud Data Pipelines & Integration** | • **Cloud Transfer Bridge & Large File Splitting:** In-memory splitting, `OpenCV` video processing & atomic resume logs<br>• **Concurrent Cloud Backup Engine:** Asyncio parallelism (`Semaphore`, `asyncio.Lock`), local staging & 2FA session handling | [Explore Engine ↗](https://mustafaelhawash.com/concurrent-cloud-backup-engine/) |
-| **4. AI & Data Engineering** | • **AI Technical SEO Auditor:** `ThreadPoolExecutor` crawler, `Pandas` health telemetry & `LLM` Structured JSON diagnostics<br>• **AI Data Intelligence Pipeline:** `Pandas` bilingual normalization, batch LLM + `tqdm` checkpointing & `Matplotlib` analytics | [Explore Division ↗](https://mustafaelhawash.com/ai-data-engineering/) |
+| Engineering Division | Core Engineered Systems & Capabilities |
+| :--- | :--- |
+| **1. Full-Stack Web Development & Performance Engineering** | • High-performance **WordPress & WooCommerce** architecture<br>• Core Web Vitals tuning, caching (`WP Rocket` + `Cloudflare`), and server bottleneck resolution<br>• Technical SEO architecture & enterprise store revivals |
+| **2. Python Automation Engineering** | • **Visual Web & Forum Archiving Engine:** High-speed automated capture & archiving<br>• **Interactive Self-Healing Automation Engine:** Resilient execution with auto-recovery scenarios<br>• **Cloud Split-Archive Automation System:** Automated processing & extraction of segmented cloud archives |
+| **3. Cloud Data Pipelines & Integration** | • **Cloud Transfer Bridge & Large File Splitting:** In-memory splitting, `OpenCV` video processing & atomic resume logs<br>• **Concurrent Cloud Backup Engine:** Asyncio parallelism (`Semaphore`, `asyncio.Lock`), local staging & 2FA session handling |
+| **4. AI & Data Engineering** | • **AI Technical SEO Auditor:** `ThreadPoolExecutor` crawler, `Pandas` health telemetry & `LLM` Structured JSON diagnostics<br>• **AI Data Intelligence Pipeline:** `Pandas` bilingual normalization, batch LLM + `tqdm` checkpointing & `Matplotlib` analytics |
 
 > 🔒 **Proprietary Code Notice:** Production source repositories for client systems and enterprise automation tools are kept private to protect intellectual property. Full architectural diagrams, isolated engineering modules, and live telemetry dashboards are published on [mustafaelhawash.com](https://mustafaelhawash.com/).
 
@@ -68,7 +68,7 @@ Dedicated technical execution across the Google platform stack to maximize visib
 | **Google Ads** | Full-funnel Search & Display campaign architecture, conversion tracking, and advanced policy/account troubleshooting. |
 | **Google Maps** | Google Business Profile optimization, local ranking authority, and geo-targeted map pack dominance. |
 | **YouTube Ads** | Precision audience targeting, video ad funnel structuring, and cost-efficient scaling campaigns. |
-| **Website Optimization** | Speed engineering, TTFB reduction, Core Web Vitals optimization, `Cloudflare` & `WP Rocket` tuning. |
+| <small><b>Website&nbsp;Optimization</b></small> | Speed engineering, TTFB reduction, Core Web Vitals optimization, `Cloudflare` & `WP Rocket` tuning. |
 | **SEO** | Deep technical SEO audits, crawl architecture, semantic hierarchy (`H1–H3`, `Canonical`), and bilingual (AR/EN) ranking strategies. |
 | **Competitor Analysis** | Data-driven competitive intelligence, keyword gap extraction, ad benchmarking, and market positioning. |
 
